@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playground.js",
+  "scripts": {
+    "nodemon": "nodemon playground.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asma Chaima",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "nodemon": "^1.11.0",
+    "request": "^2.83.0"
+  }
+}
